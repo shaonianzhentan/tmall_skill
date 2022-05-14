@@ -1,0 +1,10 @@
+{
+    "domain": "tmall_skill",
+    "name": "\u5929\u732B\u7CBE\u7075\u81EA\u5B9A\u4E49\u6280\u80FD",
+    "version": "1.0.0",
+    "config_flow": true,
+    "documentation": "https://github.com/shaonianzhentan/tmall_skill",
+    "dependencies": [],
+    "codeowners": ["@shaonianzhentan"],
+    "quality_scale": "cloud_polling"
+}
